@@ -1,0 +1,2 @@
+./os/install/brew.sh: line 10: syntax error near unexpected token `)'
+./os/install/brew.sh: line 10: `rl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"'
