@@ -1,0 +1,1 @@
+/Users/pascalraszyk/.config/fisherman/metro/set_color_custom.fish

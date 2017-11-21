@@ -1,0 +1,1 @@
+/Users/pascalraszyk/.config/fisherman/metro/fish_mode_prompt.fish

@@ -1,0 +1,1 @@
+/Users/pascalraszyk/.config/fisherman/thefuck/init.fish

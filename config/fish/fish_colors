@@ -1,0 +1,24 @@
+normal
+--bold
+cyan
+brblue
+red
+brred
+bryellow --bold
+bryellow
+brmagenta
+yellow
+555 brblack
+brgreen
+--underline
+green
+red
+--background=brblue
+bryellow --background=brblack
+white --bold --background=brblack
+white --bold --underline
+
+B3A06D yellow
+brwhite --background=cyan
+--bold
+normal
