@@ -6,7 +6,9 @@ The script configures a few sane defaults, most of them are copied from [mathias
 
 It installs a few brew and cask applications like spotify, 1password, microsoft office, etc.
 
-## Preview Gif (tbd.)
+## Preview Gif
+
+![Asciinema Recording](https://github.com/posixpascal/dotfiles/raw/master/recording.gif)
 
 ## Brew/Cask
 
