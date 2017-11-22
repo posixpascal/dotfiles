@@ -44,9 +44,9 @@ end
 
 function dataurl --description "Create a data URL from a file"
 	set mimeType (file -b --mime-type "$argv[1]")
-	if [[ $mimeType == text/* ]]; then
-		mimeType="${mimeType};charset=utf-8";
-	fi
+	if test $mimeType-eq "text/*"
+		mimeType="$mimeType;charset=utf-8";
+	end
 	set hash (openssl base64 -in "$argv[1]" | tr -d '\n')
-	echo "data:${mimeType};base64,$hash";
+	echo "data:$mimeType;base64,$hash";
 end
