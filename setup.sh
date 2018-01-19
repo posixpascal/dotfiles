@@ -50,6 +50,7 @@ task "gulp"  "./os/install/node/gulp.sh"
 section "Installing scripts..."
 task "config & aliases"  "./os/install/config.sh"
 task "fish shell"  "./os/install/fish"
+task "php composer"  "./os/install/composer"
 
 if [ ! -f  "~/.ssh/id_rsa" ]; then
     section "git"
